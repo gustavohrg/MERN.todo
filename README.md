@@ -7,8 +7,16 @@ A aplicação usa MongoDB como o banco de dados, Node.js e express para a config
 
 ---
 
-Modelo básico de aplicação seguindo tutoriais no YouTube.
-Para fazer a aplicação funcional, apenas alterar os dados de conexão do banco de dados dentro de config/keys
+Modelo básico de aplicação seguindo tutoriais no YouTube.  
+Para fazer a aplicação funcional é necessário ter **npm** e **Node.js** instalados.  
+
+Para a instalação das dependências, executar na pasta raiz do projeto, via linha de comando:
+`npm install` e depois `npm run client-install`  
+
+Com as dependências instaladas, precisa ser alterado as informações do banco de dados dentro de config/keys.  
+
+Para executar o projeto, na linha de comando, escreve-se:
+`npm run dev`
 
 ---
 
