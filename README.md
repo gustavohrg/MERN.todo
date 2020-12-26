@@ -1,6 +1,8 @@
 # MERN_todo
 Aplicação feita em MERN, no modelo "TO-DO"
 
+![](todo_mern.png)
+
 A aplicação usa MongoDB como o banco de dados, Node.js e express para a configuração server-side e react como front-end.
 
 ---
